@@ -1,0 +1,41 @@
+name: Check Woonstad listings
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub Actions time is UTC)
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab too
+
+permissions:
+  contents: write   # needed so the workflow can commit seen_listings.json back
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run watcher
+        env:
+          WOONSTAD_SMTP_USER: ${{ secrets.WOONSTAD_SMTP_USER }}
+          WOONSTAD_SMTP_PASS: ${{ secrets.WOONSTAD_SMTP_PASS }}
+          WOONSTAD_NOTIFY_TO: ${{ secrets.WOONSTAD_NOTIFY_TO }}
+        run: python check_listings.py
+
+      - name: Commit updated state (if changed)
+        run: |
+          git config user.name "watcher-bot"
+          git config user.email "watcher-bot@users.noreply.github.com"
+          git add seen_listings.json watcher.log
+          git diff --staged --quiet || git commit -m "Update seen listings [skip ci]"
+          git push
