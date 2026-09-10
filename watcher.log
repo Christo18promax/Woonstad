@@ -212,3 +212,7 @@
 2026-09-10 17:27:53 INFO No new listings.
 2026-09-10 17:41:13 INFO Run started
 2026-09-10 17:41:44 INFO No new listings.
+2026-09-10 17:53:02 INFO Run started
+2026-09-10 17:53:33 INFO Found 1 new listing(s):
+2026-09-10 17:53:33 INFO  - Appartement Beschikbaar Rakstraat 26G  € 1.228,07  per maand  1e verdieping  83m²  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6a7eaf57112350cec7c011f8-rakstraat-26g)
+2026-09-10 17:53:34 ERROR Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-334fbd5e6f6sm46289690eec.23 - gsmtp')
