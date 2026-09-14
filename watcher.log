@@ -872,3 +872,8 @@
 2026-09-14 12:15:51 INFO Found 1 new listing(s):
 2026-09-14 12:15:51 INFO  - Nieuwbouw Appartement Inschrijving nog niet open Type A.1.1 Duivenvoordestraat  Oostervant fase 1 nieuwbouw Duivenvoordestraat  vanaf € 1.228,07  per maand  4 kamers  Begane grond  84.6 m² (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6a95628e1e08df096afe9985-a11)
 2026-09-14 12:15:51 ERROR Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 6a1803df08f44-9120f4d389esm92566896d6.42 - gsmtp')
+2026-09-14 12:39:29 INFO Run started
+2026-09-14 12:40:01 INFO Found 2 new listing(s):
+2026-09-14 12:40:01 INFO  - Nieuwbouw Appartement Inschrijving open Reageer t/m 05-10 Type A.1.2 Duivenvoordestraat  Oostervant fase 1 nieuwbouw Duivenvoordestraat  vanaf € 1.228,07  per maand  4 kamers  84.6 m² (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6a9578261e08df096afe9990-type-a12-duivenvoordestraat)
+2026-09-14 12:40:01 INFO  - Nieuwbouw Appartement Inschrijving open Reageer t/m 05-10 Type A.2.1 Duivenvoordestraat  Oostervant fase 1 nieuwbouw Duivenvoordestraat  vanaf € 1.199,00  per maand  4 kamers  Eerste verdieping  84.8 - 86.5 m² (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6a9576661e08df096afe998e-type-a21-duivenvoordestraat)
+2026-09-14 12:40:02 ERROR Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-884895001fasm35388897b3.45 - gsmtp')
