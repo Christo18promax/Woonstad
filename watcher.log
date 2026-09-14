@@ -913,3 +913,5 @@
 2026-09-14 17:57:11 INFO Found 1 new listing(s):
 2026-09-14 17:57:11 INFO  - Appartement Beschikbaar Vinkenstraat 19  Noord  € 1.173,15  per maand  2e verdieping  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/61e190ee4f2c452054954fcc-vinkenstraat-19)
 2026-09-14 17:57:12 ERROR Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-939e7f1da12sm1061818085a.9 - gsmtp')
+2026-09-14 18:14:58 INFO Run started
+2026-09-14 18:15:33 INFO No new listings.
