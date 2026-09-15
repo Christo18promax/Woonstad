@@ -1031,3 +1031,7 @@
 2026-09-15 12:37:36 INFO No new listings.
 2026-09-15 12:57:34 INFO Run started
 2026-09-15 12:58:08 INFO No new listings.
+2026-09-15 13:17:28 INFO Run started
+2026-09-15 13:18:02 INFO Found 1 new listing(s):
+2026-09-15 13:18:02 INFO  - Appartement Binnenkort beschikbaar Boezemlaan 55B  Kralingen-Crooswijk  € 1.650,-  per maand  4e verdieping  87m²  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/5b6420775fae9816c057e2c3-boezemlaan-55b)
+2026-09-15 13:18:03 ERROR Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 006d021491bc7-6c0990ccbdfsm13494334eaf.4 - gsmtp')
