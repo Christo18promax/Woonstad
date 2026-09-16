@@ -2740,3 +2740,5 @@ json.decoder.JSONDecodeError: Expecting value: line 2 column 1 (char 1)
 2026-09-16 20:16:16 INFO Email sent.
 2026-09-16 20:29:21 INFO Run started
 2026-09-16 20:29:53 INFO No new listings.
+2026-09-16 20:45:19 INFO Run started
+2026-09-16 20:45:50 INFO No new listings.
