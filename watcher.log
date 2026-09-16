@@ -2734,3 +2734,7 @@ json.decoder.JSONDecodeError: Expecting value: line 2 column 1 (char 1)
 2026-09-16 20:09:29 INFO Baseline saved with 20 listing(s). Future runs will notify you of anything new.
 2026-09-16 20:12:31 INFO Run started
 2026-09-16 20:13:03 INFO No new listings.
+2026-09-16 20:15:45 INFO Run started
+2026-09-16 20:16:15 INFO Found 1 new listing(s):
+2026-09-16 20:16:15 INFO  - Appartement Reacties gesloten Vinkenstraat 19  Noord  € 1.173,15  per maand  2e verdieping  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/61e190ee4f2c452054954fcc-vinkenstraat-19)
+2026-09-16 20:16:16 INFO Email sent.
