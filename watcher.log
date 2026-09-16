@@ -1807,3 +1807,24 @@ Traceback (most recent call last):
     obj, end = self.scan_once(s, idx)
                ^^^^^^^^^^^^^^^^^^^^^^
 json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 20 column 4 (char 4583)
+2026-09-16 07:17:05 INFO Run started
+2026-09-16 07:17:37 ERROR Unhandled error during run
+Traceback (most recent call last):
+  File "/home/runner/work/Woonstad/Woonstad/check_listings.py", line 213, in <module>
+    main()
+  File "/home/runner/work/Woonstad/Woonstad/check_listings.py", line 185, in main
+    seen = load_seen()
+           ^^^^^^^^^^^
+  File "/home/runner/work/Woonstad/Woonstad/check_listings.py", line 149, in load_seen
+    return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/json/decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/json/decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 20 column 4 (char 4583)
