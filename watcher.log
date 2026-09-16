@@ -2730,3 +2730,5 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.12.14/x64/lib/python3.12/json/decoder.py", line 356, in raw_decode
     raise JSONDecodeError("Expecting value", s, err.value) from None
 json.decoder.JSONDecodeError: Expecting value: line 2 column 1 (char 1)
+2026-09-16 20:08:58 INFO Run started
+2026-09-16 20:09:29 INFO Baseline saved with 20 listing(s). Future runs will notify you of anything new.
