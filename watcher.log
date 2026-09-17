@@ -2913,3 +2913,9 @@ navigating to "https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning",
 2026-09-17 17:25:13 INFO No new listings.
 2026-09-17 17:39:55 INFO Run started
 2026-09-17 17:40:27 INFO No new listings.
+2026-09-17 17:52:55 INFO Run started
+2026-09-17 17:53:27 INFO Found 3 new listing(s):
+2026-09-17 17:53:27 INFO  - Appartement Binnenkort beschikbaar Ruivenstraat 2K  Noord  € 1.228,07  per maand  Begane grond  68m²  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6aabacd9c861b9a24c7b2624-ruivenstraat-2k)
+2026-09-17 17:53:27 INFO  - Appartement Beschikbaar Ridderspoorstraat 33  Feijenoord  € 1.228,07  per maand  1e verdieping  94m²  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6a439a632350414e1d88e91a-ridderspoorstraat-33)
+2026-09-17 17:53:27 INFO  - Appartement Beschikbaar Claes de Vrieselaan 116A  Delfshaven  € 1.083,88  per maand  1e verdieping  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6a70479165615f9dd8a060f3-claes-de-vrieselaan-116a)
+2026-09-17 17:53:28 INFO Email sent.
