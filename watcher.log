@@ -2873,3 +2873,5 @@ playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
 Call log:
 navigating to "https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning", waiting until "networkidle"
 
+2026-09-17 11:56:33 INFO Run started
+2026-09-17 11:57:07 INFO No new listings.
