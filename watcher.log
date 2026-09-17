@@ -2826,3 +2826,5 @@ json.decoder.JSONDecodeError: Expecting value: line 2 column 1 (char 1)
 2026-09-17 09:12:40 INFO Found 1 new listing(s):
 2026-09-17 09:12:40 INFO  - Appartement Binnenkort beschikbaar Nieuwe Boezemstraat 19B  Kralingen-Crooswijk  € 1.399,-  per maand  2e verdieping  84m²  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/610006195fae9714fc81c9e3-nieuwe-boezemstraat-19b)
 2026-09-17 09:12:41 INFO Email sent.
+2026-09-17 09:29:34 INFO Run started
+2026-09-17 09:30:17 INFO No new listings.
