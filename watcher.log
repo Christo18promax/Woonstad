@@ -2836,3 +2836,7 @@ json.decoder.JSONDecodeError: Expecting value: line 2 column 1 (char 1)
 2026-09-17 10:28:49 INFO No new listings.
 2026-09-17 10:44:53 INFO Run started
 2026-09-17 10:45:28 INFO No new listings.
+2026-09-17 10:56:46 INFO Run started
+2026-09-17 10:57:20 INFO Found 1 new listing(s):
+2026-09-17 10:57:20 INFO  - Appartement Beschikbaar Paradijslaan 6 D  Kralingen-Crooswijk  € 1.800,-  per maand  1e verdieping  143m²  3 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6a55e09a812987699a01eeea-paradijslaan-6-d)
+2026-09-17 10:57:22 INFO Email sent.
