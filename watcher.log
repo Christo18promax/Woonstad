@@ -4749,3 +4749,9 @@ navigating to "https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning",
 2026-09-29 17:14:39 INFO No new listings.
 2026-09-29 17:33:42 INFO Run started
 2026-09-29 17:34:17 INFO No new listings.
+2026-09-29 17:57:57 INFO Run started
+2026-09-29 17:58:32 INFO Found 3 new listing(s):
+2026-09-29 17:58:32 INFO  - Appartement Beschikbaar Burghsluissingel 120  Charlois  € 1.228,07  per maand  4e verdieping  77m²  4 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6abb6942496ed720dde9eb38-burghsluissingel-120)
+2026-09-29 17:58:32 INFO  - Eengezinswoning Beschikbaar Does 1  Prins Alexander  € 1.207,46  per maand  Begane grond  4 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/633ae4c0aa1d6513782b64cb-does--1)
+2026-09-29 17:58:32 INFO  - Eengezinswoning Beschikbaar Biezelingeplein 18  Charlois  € 1.228,07  per maand  Begane grond  130m²  5 kamers (https://www.woonstadrotterdam.nl/aanbod/vrije-sector-huurwoning/6abb5a2b496ed720dde9eb27-biezelingeplein-18)
+2026-09-29 17:58:34 INFO Email sent.
